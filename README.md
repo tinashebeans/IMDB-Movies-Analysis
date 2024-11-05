@@ -4,7 +4,8 @@ This is an IMDB movies analysis to find the top rated movies, the impact of movi
 # Introduction
 Isn't it frustrating, that you have just had a long day and want to detox with a movie? You get home, wear your comfy pants, take a blanket, pick up the remote, open Netflix, Prime, or whatever, find a movie, and only realize 30 minutes into the movie that the movie is not that good. Now you gotta find another movie or consider a more low-key activity like reading a book, listening to a podcast, or worse just leave it and go to sleep. Well, I have been there, not once but almost every time I want to watch a movie. 
 
-So here is an IMDB movie analysis, that can help you to never go through that ever again
+So here is an IMDB movie analysis, that can help you to never go through that ever again. The dataset I used is the TMDb (The Movie Database) which is a comprehensive movie database that provides information about movies, including details like titles, ratings, release dates, revenue, genres, and much more. This dataset contains a collection of 1,000,000 movies from the TMDB database.
+Here is the [dataset](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies/data)
 # Background
 Special thanks to [Chanin Nantasenamat](https://data-professor.medium.com/) for sharing his work on Machinine Learning [youtube](https://www.youtube.com/watch?v=29ZQ3TDGgRQ) which helped me build a Movie Revenue Prediction model basing on budget, language, genre,release month and runtime.
 
