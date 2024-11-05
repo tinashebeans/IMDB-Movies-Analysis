@@ -6,7 +6,7 @@ Isn't it frustrating, that you have just had a long day and want to detox with a
 
 So here is an IMDB movie analysis, that can help you to never go through that ever again
 # Background
-Special thanks to [Chanin Nantasenamat](https://data-professor.medium.com/) for sharing his work on Machinine Learning () which helped me build a Movie Revenue Prediction model basing on budget, language, genre,release month and runtime.
+Special thanks to [Chanin Nantasenamat](https://data-professor.medium.com/) for sharing his work on Machinine Learning [youtube](https://www.youtube.com/watch?v=29ZQ3TDGgRQ) which helped me build a Movie Revenue Prediction model basing on budget, language, genre,release month and runtime.
 
 ### The questions answered in the Analysis
 1.	Top-rated movies and low-rated movies
