@@ -1,2 +1,24 @@
 # IMDB-Movies-Analysis
 This is an IMDB movies analysis to find the top rated movies, the impact of movie release month on revenue and more.
+
+# Introduction
+Isn't it frustrating, that you have just had a long day and want to detox with a movie? You get home, wear your comfy pants, take a blanket, pick up the remote, open Netflix, Prime, or whatever, find a movie, and only realize 30 minutes into the movie that the movie is not that good. Now you gotta find another movie or consider a more low-key activity like reading a book, listening to a podcast, or worse just leave it and go to sleep. Well, I have been there, not once but almost every time I want to watch a movie. 
+
+So here is an IMDB movie analysis, that can help you to never go through that ever again
+# Background
+Special thanks to [Chanin Nantasenamat](https://data-professor.medium.com/) for sharing his work on Machinine Learning () which helped me build a Movie Revenue Prediction model basing on budget, language, genre,release month and runtime.
+
+### The questions answered in the Analysis
+1.	Top-rated movies and low-rated movies
+2.	High-budget movies
+3.	High-profit movies
+4.	Correlation between budget and rating
+5.	Correlation between budget and profit
+6.	Identify trends in movie release dates and analyze their impact on revenue.
+7.	Create a revenue prediction model using features such as budget, language, genre,release month and runtime. [Coming soon]
+
+# Tools I Used
+These are the tools that i used for my Analysis:
+- **Python:** The backbone of the analysis, allowing me to sift through the large datasets and help discover critical insights.
+
+- **Excel:** I used Excel for further cleaning and filtering.
