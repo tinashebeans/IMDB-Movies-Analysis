@@ -27,8 +27,8 @@ These are the tools that i used for my Analysis:
 - **Algorithms Used:** Random Forest and Linear regression
 
   # Analysis Results
-  [Analysis Results](/Analysis_Results/)
-  [Model notebook](https://github.com/tinashebeans/IMDB-Movies-Analysis/blob/main/Revenue_prediction%20model%20notebook.ipynb)
+ - [Analysis Results](/Analysis_Results/)
+ - [Model notebook](https://github.com/tinashebeans/IMDB-Movies-Analysis/blob/main/Revenue_prediction%20model%20notebook.ipynb)
 
   # KEY TAKEAWAY
   I NEED TO IMPROVE MY MODEL BUILDING SKILLS FOR BETTER ACCURACY
