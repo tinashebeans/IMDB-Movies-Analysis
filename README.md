@@ -27,7 +27,7 @@ These are the tools that i used for my Analysis:
 - **Algorithms Used:** Random Forest and Linear regression
 
   # Analysis Results
- - [Analysis Results](Analysis Results)
+ - [Analysis Results](https://github.com/tinashebeans/IMDB-Movies-Analysis/tree/main/Analysis%20Results)
  - [Model notebook](https://github.com/tinashebeans/IMDB-Movies-Analysis/blob/main/Revenue_prediction%20model%20notebook.ipynb)
 
   # KEY TAKEAWAY
