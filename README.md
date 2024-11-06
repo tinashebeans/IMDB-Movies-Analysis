@@ -16,7 +16,7 @@ Special thanks to [Chanin Nantasenamat](https://data-professor.medium.com/) the 
 4.	Correlation between budget and rating
 5.	Correlation between budget and profit
 6.	Identify trends in movie release dates and analyze their impact on revenue.
-7.	Create a revenue prediction model using features such as budget, language, genre,release month and runtime. [Model notebook](/https://github.com/tinashebeans/IMDB-Movies-Analysis/blob/main/Revenue_prediction%20model%20notebook.ipynb/)
+7.	Create a revenue prediction model using features such as budget, language, genre,release month and runtime. [Model notebook](https://github.com/tinashebeans/IMDB-Movies-Analysis/blob/main/Revenue_prediction%20model%20notebook.ipynb)
 
 # Tools I Used
 These are the tools that i used for my Analysis:
