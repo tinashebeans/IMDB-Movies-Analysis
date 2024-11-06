@@ -7,7 +7,7 @@ Isn't it frustrating, that you have just had a long day and want to detox with a
 So here is an IMDB movie analysis, that can help you to never go through that ever again. The dataset I used is the TMDb (The Movie Database) which is a comprehensive movie database that provides information about movies, including details like titles, ratings, release dates, revenue, genres, and much more. This dataset contains a collection of 1,000,000 movies from the TMDB database.
 Here is the [dataset](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies/data)
 # Background
-Special thanks to [Chanin Nantasenamat](https://data-professor.medium.com/) the Data Proffessor for sharing his work on Machinine Learning ([youtube](https://www.youtube.com/watch?v=29ZQ3TDGgRQ)) which helped me build a Movie Revenue Prediction model basing on budget, language, genre,release month and runtime.
+Special thanks to [Chanin Nantasenamat](https://data-professor.medium.com/) the Data Proffessor for sharing his work on Machinine Learning ([youtube](https://towardsdatascience.com/how-to-build-a-machine-learning-model-439ab8fb3fb1)) which helped me build a Movie Revenue Prediction model basing on budget, language, genre,release month and runtime.
 
 ### The questions answered in the Analysis
 1.	Top-rated movies and low-rated movies
