@@ -25,3 +25,7 @@ These are the tools that i used for my Analysis:
 - **Excel:** I used Excel for further cleaning and filtering.
 
 - **Algorithms Used:** Random Forest and Linear regression
+
+  # KEY TAKEAWAY
+  I NEED TO IMPROVE MY MODEL BUILDING SKILLS FOR BETTER ACCURACY
+
