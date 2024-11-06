@@ -23,3 +23,5 @@ These are the tools that i used for my Analysis:
 - **Python:** The backbone of the analysis, allowing me to sift through the large datasets and help discover critical insights.
 
 - **Excel:** I used Excel for further cleaning and filtering.
+
+- **Algorithms Used:** Random Forest and Linear regression
